@@ -1,4 +1,4 @@
-Ticket Classifier (Customer Support) — ML + API + Docker
+#Ticket Classifier (Customer Support) — ML + API + Docker
 
 End-to-end ML pipeline for classifying customer support tickets.
 Includes training, evaluation, FastAPI inference service, and Docker deployment.
@@ -77,3 +77,4 @@ scikit-learn
 FastAPI
 Docker
 Uvicorn
+
